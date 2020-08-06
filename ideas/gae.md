@@ -4,10 +4,11 @@
 Desenvolver uma aplicação que crie assinaturas de e-mail responsivas para pessoas ou empresas, de forma customizável e que seja de código livre (*open source*).
 
 ```mermaid
-graph TD
-A[Client] --> B[Load Balancer]
-B --> C[Server01]
-B --> D[Server02]
+graph TB
+A[User Data] --> B[Round edge]
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
 ```
 
 ## *Tarefas*
