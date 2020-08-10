@@ -25,8 +25,11 @@ Desenvolver uma aplicação que crie assinaturas de e-mail responsivas para pess
 
 ```mermaid
 flowchart TB
+    CPF-->Acesso
+    CNPJ-->Configurações
+    Configurações-->Acesso
     Acesso-->Input/Preenchimento
-    Input/Preenchimento & E[Importart - GMAIL API]-->C[Customização]
+    Input/Preenchimento & E[Import - GMAIL API]-->C[Customização]
     C[Customização]-->G[Gerar Assinatura]
     G[Gerar Assinatura]--> H[Copiar HTML] & M[GMAIL API]
 ```
