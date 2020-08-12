@@ -1,5 +1,5 @@
 # **Estrutura Backend**
-> Precisa ter o node instalado.*
+> Precisa ter o node instalado.
 
 ## **1.** Configurar Template Engine
 
@@ -56,8 +56,15 @@ As páginas receberam o arquivo `layout.njk` e poderão ser compostas por outros
     </section>
 {% endblock %}
 ```
+---
 
-### **:speech_balloon:** - Comandos
+## **3.** Estrutura de dados
+
+
+
+---
+
+### **:speech_balloon:** Comandos
 
 | **Comando**                         | **Descritivo**                  |
 | ----------------------------------- | ------------------------------- |

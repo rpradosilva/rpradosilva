@@ -1,5 +1,5 @@
 # **Estrutura Backend**
-> Precisa ter o node instalado.*
+> Precisa ter o node instalado.
 
 ## **1.** Criar Arquivo
 Criar arquivo `server.js`
