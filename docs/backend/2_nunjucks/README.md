@@ -57,7 +57,7 @@ As páginas receberam o arquivo `layout.njk` e poderão ser compostas por outros
 {% endblock %}
 ```
 
-### **2.3** - Comandos
+### **:speech_balloon:** - Comandos
 
 | **Comando**                         | **Descritivo**                  |
 | ----------------------------------- | ------------------------------- |
