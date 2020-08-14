@@ -60,14 +60,25 @@ As páginas receberam o arquivo `layout.njk` e poderão ser compostas por outros
 
 ## **3.** Estrutura de dados
 
+### **3.1** Carregar dados
+> Com a variável definida no serivdor, usar estrutura de repetição
+
+```html
+{% for item in items %}
+
+    <!-- Estrura do item aqui -->
+    <div>{{item.id}}</div>
+
+{% endfor %}
+```
 
 
 ---
 
 ### **:speech_balloon:** Comandos
 
-| **Comando**                         | **Descritivo**                  |
-| ----------------------------------- | ------------------------------- |
-| `{% block nome %}`                  | *Início do bloco de conteúdo*   |
-| `{% endblock %}`                    | *Finaliza do bloco de conteúdo* |
-| `{% extends "nome-template.njk" %}` | *Insere o conteúdo padrão*      |
+| **Comando**                                | **Descritivo**                        |
+| ------------------------------------------ | ------------------------------------- |
+| `{% block nome %}` & `{% endblock %}`      | *Bloco de conteúdo*                   |
+| `{% extends "nome-template.njk" %}`        | *Insere o conteúdo padrão (Template)* |
+| `{% for item in items %}` & `{% endfor %}` | *Estrutura de repetição*              |
