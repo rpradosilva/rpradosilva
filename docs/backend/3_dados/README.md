@@ -7,7 +7,7 @@
 Crie o arquivo `data.js`
 
 ### **1.2** - Dados
-> Inserir no data.js
+> Inserir no `data.js`
 
 ```javascript
 module.exports[
@@ -18,8 +18,19 @@ module.exports[
 ```
 
 ### **1.3** Importar dados
-> Inserir no server.js (`./` = Raiz do projeto)
+> Inserir no `server.js` (`./` = Raiz do projeto)
 
 ```javascript
 const dados = require("./data")
+```
+
+### **1.4** Exibir dados na rota
+> Inserir no `server.js`
+
+```javascript
+server.get("/pagina", function (req,res){
+    return res.render("pagina", 
+    // Dados
+    {items: dados})
+}
 ```
