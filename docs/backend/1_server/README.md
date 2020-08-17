@@ -74,3 +74,34 @@ server.use(function(req, res) {
 ```javascript
 server.use(express.static("public"))
 ```
+---
+
+## **6.** Query Strings
+> Configurar URL: `?id=#####`
+```javascript
+server.get("/video", function(req, res) {
+
+    // selecionar o id na url
+    const id = req.query.id
+
+    // procurar o array de videos do data.js
+    const video = videos.find(
+
+        // comparar o id do vídeo com a url
+        function (video){
+            if (video.id == id) {
+                return true
+            }
+        }
+
+    )
+
+    // se o vídeo não existir
+    if (!video) {
+        return res.send("Vídeo não encontrado.")
+    }
+
+    // renderiza a estrutura com os vídeos
+    return res.render("video", {item: video})
+})
+```
