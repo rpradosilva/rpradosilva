@@ -71,11 +71,27 @@ As páginas receberam o arquivo `layout.njk` e poderão ser compostas por outros
 
 {% endfor %}
 ```
+---
 
+## :bomb: Inserir Tags HTML
+> No Array:
+```javascript
+const array = [{
+    // Usar aspas simples
+    logo: '<img src="/images/perfil.jpg" alt="Foto Perfil">'
+}]
+```
+
+> No `server.js`, inserir o autoescape:
+```javascript
+nunjucks.configure("views", {
+    autoescape: false
+})
+```
 
 ---
 
-### **:speech_balloon:** Comandos
+## **:speech_balloon:** Comandos
 
 | **Comando**                                | **Descritivo**                        |
 | ------------------------------------------ | ------------------------------------- |

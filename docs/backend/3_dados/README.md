@@ -34,6 +34,3 @@ server.get("/pagina", function (req,res){
     {items: dados})
 }
 ```
-
-## :bomb: Cuidado com as Tags
-Tags HTML não são possíveis de inserir via estrutura de dados.
