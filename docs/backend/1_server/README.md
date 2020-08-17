@@ -80,28 +80,19 @@ server.use(express.static("public"))
 > Configurar URL: `?id=#####`
 ```javascript
 server.get("/video", function(req, res) {
-
     // selecionar o id na url
     const id = req.query.id
-
     // procurar o array de videos do data.js
     const video = videos.find(
-
         // comparar o id do vídeo com a url
-        function (video){
-            if (video.id == id) {
-                return true
-            }
-        }
-
+        function (video){ return video.id == id }
     )
-
     // se o vídeo não existir
     if (!video) {
         return res.send("Vídeo não encontrado.")
     }
-
-    // renderiza a estrutura com os vídeos
+    // renderiza a estrutura com os
     return res.render("video", {item: video})
 })
 ```
+> ! - É necessário fazer o redirect da URL do botão, após concluir esta configuração
