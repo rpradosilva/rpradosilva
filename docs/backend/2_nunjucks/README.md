@@ -71,9 +71,22 @@ As páginas receberam o arquivo `layout.njk` e poderão ser compostas por outros
 
 {% endfor %}
 ```
+
+### **3.2** Condicional
+> If e Else
+```
+{% if item.buy %}
+    ACESSAR
+{% else %}
+    COMPRAR
+{% endif %}
+```
 ---
 
-## :bomb: Inserir Tags HTML
+## :bomb: Importante
+
+### Inserir Tags HTML
+
 > No Array:
 ```javascript
 const array = [{
@@ -89,12 +102,21 @@ nunjucks.configure("views", {
 })
 ```
 
+### Remover Cache
+> No `server.js`, inserir:
+```javascript
+nunjucks.configure("views", {
+    noCache: true
+})
+```
+
 ---
 
 ## **:speech_balloon:** Comandos
 
-| **Comando**                                | **Descritivo**                        |
-| ------------------------------------------ | ------------------------------------- |
-| `{% block nome %}` & `{% endblock %}`      | *Bloco de conteúdo*                   |
-| `{% extends "nome-template.njk" %}`        | *Insere o conteúdo padrão (Template)* |
-| `{% for item in items %}` & `{% endfor %}` | *Estrutura de repetição*              |
+| **Comando**                                   | **Descritivo**                        |
+| --------------------------------------------- | ------------------------------------- |
+| `{% block nome %}` & `{% endblock %}`         | *Bloco de conteúdo*                   |
+| `{% extends "nome-template.njk" %}`           | *Insere o conteúdo padrão (Template)* |
+| `{% for item in items %}` & `{% endfor %}`    | *Estrutura de repetição*              |
+| `{% if nome %}`, `{% else %}` & `{% endif %}` | *Condicionais*                        |
