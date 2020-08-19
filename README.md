@@ -1,4 +1,4 @@
-# [<img alt="Logo RPrado" src=".github/logo-rprado.png" width="130px" />](http://rprado.design)
+# [<img alt="Logo RPrado" src="https://raw.githubusercontent.com/rpradosilva/rpradosilva/master/.github/logo-rprado.png" width="130px" />](http://rprado.design)
 
 ### **Designer** & **Developer**
 
