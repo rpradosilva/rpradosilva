@@ -1,4 +1,4 @@
-# **Rafael Prado**
+# [<img alt="Logo RPrado" src=".github/logo-rprado.png" width="130px" />](http://rprado.design)
 
 ### **Designer** & **Developer**
 
