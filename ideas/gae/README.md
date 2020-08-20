@@ -35,7 +35,7 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
       > Sobrenome (*minímo 2 letras*) :pushpin:
 
-      > Foto 
+      > Foto (*Inserir URL*)
 
       > Telefone pessoal (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*)
 3. Informar meus dados profissionais
@@ -45,7 +45,7 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
       > Site empresa :pushpin: :office: :lock:
       
-      > Logo Empresa (*inserir site na imagem*) :office: :lock:
+      > Logo Empresa (*inserir url + site na imagem*) :office: :lock:
 
       > Disclaimer :office: :lock:
 
