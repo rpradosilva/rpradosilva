@@ -30,9 +30,9 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
     > Acessar o domínio, ex: `gae.github.io`
 
 2. Informar meus dados pessoais
-      > Nome* (*minímo 2 letras*)
+      > Nome :pushpin: (*minímo 2 letras*)
 
-      > Sobrenome* (*minímo 2 letras*)
+      > Sobrenome :pushpin: (*minímo 2 letras*)
 
       > Foto 
 
@@ -40,17 +40,17 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
       > Redes Sociais (*Inserir link e ícone*)
 3. Informar meus dados profissionais
-      > E-mail* (*@empresa.com; @empresa e . + inserir mailto no texto*) :office: :lock:
+      > E-mail :pushpin: (*@empresa.com; @empresa e . + inserir mailto no texto*) :office: :lock:
 
-      > Telefone comercial* (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :office: :lock:
+      > Telefone comercial :pushpin: (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :office: :lock:
       
       > Logo Empresa (*inserir site na imagem*) :office: :lock:
 
       > Disclaimer :office: :lock:
 4. Formatar minha assinatura
-    > Cores: Primária, Secundária e de apoio (*inserir seletor de cores*)
+    > Cores: Primária, Secundária e de apoio :pushpin: (*inserir seletor de cores*) :office: :lock:
 
-    > Tamanho de texto: Título, subtítulo e disclaimer
+    > Tamanho de texto: Título, subtítulo e disclaimer :pushpin: :office: :lock:
 
     > 
 5. Ver como ficou minha assinatura
