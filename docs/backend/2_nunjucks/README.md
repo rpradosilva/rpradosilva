@@ -4,8 +4,8 @@
 [![](https://img.shields.io/badge/2.-Nunjucks%20Templates-4969D7?style=flat-square&labelColor=21275C)](#2-nunjucks-templates)
 [![](https://img.shields.io/badge/3.-Estrutura%20de%20dados-4969D7?style=flat-square&labelColor=21275C)](#3-estrutura-de-dados)
 
-[![](https://img.shields.io/badge/‣%20Importante-000033?style=flat-square)](#:bomb:-importante)
-[![](https://img.shields.io/badge/‣%20Comandos-000033?style=flat-square)](#:speech_balloon:-comandos)
+[![](https://img.shields.io/badge/‣%20Importante-000033?style=flat-square)](#bomb-importante)
+[![](https://img.shields.io/badge/‣%20Comandos-000033?style=flat-square)](#speech_balloon-comandos)
 ___
 
 ## **1.** Configurar Template Engine
