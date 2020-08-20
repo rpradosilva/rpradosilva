@@ -1,4 +1,4 @@
-# **`GAE`** - **G**erador de **A**ssinatura de **E**-mails
+# :bulb: **`GAE`** - **G**erador de **A**ssinatura de **E**-mails
 
 ## *Ideia*
 Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pessoas ou empresas, de forma customizável e que seja de código livre (*open source*).
@@ -30,9 +30,9 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
     > Acessar o domínio, ex: `gae.github.io`
 
 2. Informar meus dados pessoais
-      > Nome :pushpin: (*minímo 2 letras*)
+      > Nome (*minímo 2 letras*) :pushpin:
 
-      > Sobrenome :pushpin: (*minímo 2 letras*)
+      > Sobrenome (*minímo 2 letras*) :pushpin:
 
       > Foto 
 
@@ -40,15 +40,15 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
       > Redes Sociais (*Inserir link e ícone*)
 3. Informar meus dados profissionais
-      > E-mail :pushpin: (*@empresa.com; @empresa e . + inserir mailto no texto*) :office: :lock:
+      > E-mail (*@empresa.com; @empresa e . + inserir mailto no texto*) :pushpin: :office: :lock:
 
-      > Telefone comercial :pushpin: (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :office: :lock:
+      > Telefone comercial (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :pushpin: :office: :lock:
       
       > Logo Empresa (*inserir site na imagem*) :office: :lock:
 
       > Disclaimer :office: :lock:
 4. Formatar minha assinatura
-    > Cores: Primária, Secundária e de apoio :pushpin: (*inserir seletor de cores*) :office: :lock:
+    > Cores: Primária, Secundária e de apoio (*inserir seletor de cores*) :pushpin: :office: :lock:
 
     > Tamanho de texto: Título, subtítulo e disclaimer :pushpin: :office: :lock:
 
