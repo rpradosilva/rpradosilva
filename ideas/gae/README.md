@@ -39,7 +39,7 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
       > Telefone pessoal (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*)
 3. Informar meus dados profissionais
-      > E-mail (*@empresa.com; @empresa e . + inserir mailto no texto*) :pushpin: :office: :lock:
+      > E-mail (*@empresa.com; @empresa e . + inserir mailto no texto*) :pushpin: :office:
 
       > Telefone comercial (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :pushpin: :office: :lock:
 
