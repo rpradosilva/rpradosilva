@@ -38,22 +38,24 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
       > Foto 
 
       > Telefone pessoal (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*)
-
-      > Redes Sociais (*Inserir link e ícone*)
 3. Informar meus dados profissionais
       > E-mail (*@empresa.com; @empresa e . + inserir mailto no texto*) :pushpin: :office: :lock:
 
       > Telefone comercial (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :pushpin: :office: :lock:
+
+      > Site empresa :pushpin: :office: :lock:
       
       > Logo Empresa (*inserir site na imagem*) :office: :lock:
 
       > Disclaimer :office: :lock:
+
+      > Redes Sociais (*Inserir link e ícone*) :office: :lock:
 4. Formatar minha assinatura
     > Cores: Primária, Secundária e de apoio (*inserir seletor de cores*) :pushpin: :office: :lock:
 
     > Tamanho de texto: Título, subtítulo e disclaimer :pushpin: :office: :lock:
 
-    > 
+    > Layout/tema (*um na vertical e outro na horizontal*) :pushpin: :office: :lock:
 5. Ver como ficou minha assinatura
     > A assinatura deve funcionar como um live preview (*onkeypress*)
 6. Inserir no meu e-mail
@@ -68,27 +70,6 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 | :pushpin: | Campo obrigatório    |
 | :office:  | Admin pode modificar |
 |  :lock:   | Admin pode bloquear  |
-
-### **Estrutura de dados**
-
-
-  - [ ] Telefone
-    - [ ] Customização para empresa (*Fixo*)
-    - [ ] Telefone pessoal (*+55 11 9 9999-9999*)
-    - [ ] Inserir Link (*tel*)
-
-  - [ ] Redes Sociais (*Opcional*)
-    - [ ] Adicionar links
-    - [ ] Customização para empresa
-    - [ ] Inserir Link
-
-- [ ] Os dados devem preencher a assinatura automáticamente (*live preview; onkeypress*)
-
-- [ ] Copiar para área de transferência
-
-- [ ] Exportar HTML
-
-- [ ] Exportar para o Gmail (*API*)
 
 ### **Monetização**
 
