@@ -1,7 +1,7 @@
 # **`GAE`** - **G**erador de **A**ssinatura de **E**-mails
 
 ## *Ideia*
-Desenvolver uma aplicação que crie assinaturas de e-mail responsivas para pessoas ou empresas, de forma customizável e que seja de código livre (*open source*).
+Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pessoas ou empresas, de forma customizável e que seja de código livre (*open source*).
 
 ## *Referências*
 
@@ -21,45 +21,49 @@ Desenvolver uma aplicação que crie assinaturas de e-mail responsivas para pess
 
 ## *Projeto*
 
-### **Fluxo**
-
-```mermaid
-flowchart TB
-    CPF-->Acesso
-    CNPJ-->Configurações
-    Configurações-->Acesso
-    Acesso-->Input/Preenchimento
-    Input/Preenchimento & E[Import - GMAIL API]-->C[Customização]
-    C[Customização]-->G[Gerar Assinatura]
-    G[Gerar Assinatura]--> H[Copiar HTML] & M[GMAIL API]
-```
+### **Público/Personas**
+- Técnico TI da empresa
+- Profissionais que querem deixar seu e-mail corporativo (Freelancers & funcionários)
 
 ### **Descritivo**
-- [ ] Gerar assinatura à partir de um input de dados (*form*)
+1. Gerar rapidamente minha assinatura de e-mail
+    > Acessar o domínio, ex: `gae.github.io`
 
+2. Informar meus dados pessoais
+      > Nome* (*minímo 2 letras*)
 
-- [ ] Criar e validar inputs
+      > Sobrenome* (*minímo 2 letras*)
 
+      > Foto 
 
-  - [ ] Cores
-    - [ ] Destaque
-    - [ ] Primária
-    - [ ] Secundária
+      > Telefone pessoal (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*)
 
+      > Redes Sociais (*Inserir link e ícone*)
+3. Informar meus dados profissionais
+      > E-mail* (*@empresa.com; @empresa e . + inserir mailto no texto*) :office: :lock:
 
-  - [ ] Tamanho de texto
+      > Telefone comercial* (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :office: :lock:
+      
+      > Logo Empresa (*inserir site na imagem*) :office: :lock:
 
-  - [ ] Foto
-    - [ ] Logo da empresa
-    - [ ] Foto da pessoa
-    - [ ] Inserir Link
+      > Disclaimer :office: :lock:
+4. Formatar minha assinatura
+    > Cores: Primária, Secundária e de apoio (*inserir seletor de cores*)
 
-  - [ ] Nome (*Mínimo 2 letras*)
+    > Tamanho de texto: Título, subtítulo e disclaimer
 
-  - [ ] E-mail
-    - [ ] Customização para empresa (*@empresa.com; @empresa e .*)
-    - [ ] Padrão (*@empresa.com; @ e .*)
-    - [ ] Inserir Link (*mailto*)
+    > 
+5. Ver como ficou minha assinatura
+    > A assinatura deve funcionar como um live preview (*onkeypress*)
+6. Inserir no meu e-mail
+    > Inserir direto no gmail (*API*)
+
+    > `Copy to clipboard` código HTML
+
+    > Exportar png
+
+### **Estrutura de dados**
+
 
   - [ ] Telefone
     - [ ] Customização para empresa (*Fixo*)
