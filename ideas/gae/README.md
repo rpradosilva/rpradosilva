@@ -35,9 +35,9 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
       > Sobrenome (*minímo 2 letras*) :pushpin:
 
-      > Foto (*Inserir URL*)
+      > Foto (*Inserir URL*) :office: :lock:
 
-      > Telefone pessoal (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*)
+      > Telefone pessoal (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :office: :lock:
 3. Informar meus dados profissionais
       > E-mail (*@empresa.com; @empresa e . + inserir mailto no texto*) :pushpin: :office:
 
