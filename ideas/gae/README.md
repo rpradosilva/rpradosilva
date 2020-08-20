@@ -27,11 +27,11 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
 ### **Descritivo**
 
-|    Ícone    | Legenda              |
-| :---------: | :------------------- |
-| `:pushpin:` | Campo obrigatório    |
-| `:office:`  | Admin pode modificar |
-|  `:lock:`   | Admin pode bloquear  |
+|   Ícone   | Legenda              |
+| :-------: | :------------------- |
+| :pushpin: | Campo obrigatório    |
+| :office:  | Admin pode modificar |
+|  :lock:   | Admin pode bloquear  |
 
 1. Gerar rapidamente minha assinatura de e-mail
     > Acessar o domínio, ex: `gae.github.io`
