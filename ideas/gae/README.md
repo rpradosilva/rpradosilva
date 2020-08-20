@@ -21,7 +21,7 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
 ## *Projeto*
 
-### **Público/Personas**
+### **Público**
 - Técnico TI da empresa
 - Profissionais que querem deixar seu e-mail corporativo (Freelancers & funcionários)
 
