@@ -50,6 +50,8 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
       > Disclaimer :office: :lock:
 
       > Redes Sociais (*Inserir link e ícone*) :office: :lock:
+
+      > Campo adicional (*Inserir um novo campo e preencher*) :office: :lock:
 4. Formatar minha assinatura
     > Cores: Primária, Secundária e de apoio (*inserir seletor de cores*) :pushpin: :office: :lock:
 
