@@ -43,7 +43,7 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
       > Telefone comercial (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :pushpin: :office: :lock:
 
-      > Site empresa :pushpin: :office: :lock:
+      > Site empresa :office: :lock:
       
       > Logo Empresa (*inserir url + site na imagem*) :office: :lock:
 
@@ -53,9 +53,9 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
       > Campo adicional (*Inserir um novo campo e preencher*) :office: :lock:
 4. Formatar minha assinatura
-    > Cores: Primária, Secundária e de apoio (*inserir seletor de cores*) :pushpin: :office: :lock:
+    > Cores: Escura e Clara (*inserir seletor de cores*) :pushpin: :office: :lock:
 
-    > Tamanho de texto: Título, subtítulo e disclaimer :pushpin: :office: :lock:
+    > Tamanho da imagem: Definir tamanho da largura  imagem :pushpin: :office: :lock:
 
     > Layout/tema (*um na vertical e outro na horizontal*) :pushpin: :office: :lock:
 5. Ver como ficou minha assinatura
