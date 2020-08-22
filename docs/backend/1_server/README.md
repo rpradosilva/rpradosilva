@@ -105,7 +105,14 @@ const routes = require("./routes")
 
 server.use(routes)
 ```
-### **6.5** - Transmitindo dados nas rotas
+
+### **6.5** - Redirecionamento de rotas
+```javascript
+routes.get("/", function(req, res) {
+    return res.redirect("/teachers")
+})
+```
+### **6.6** - Transmitindo dados nas rotas
 
 **Query Strings**
 > Configurar URL: `?id=#####`
