@@ -1,7 +1,12 @@
 # :bulb: **`GAE`** - **G**erador de **A**ssinatura de **E**-mails
 
+[**Protótipo**](https://xd.adobe.com/view/89d2a5fd-f9dc-4727-8fc3-bbfca16d2187-dc81/screen/626bbe78-d434-4987-8b72-8a5bd3c6e4e1?fullscreen)
+
+---
+
 ## *Ideia*
 Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pessoas ou empresas, de forma customizável e que seja de código livre (*open source*).
+
 
 ## *Referências*
 
