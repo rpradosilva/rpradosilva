@@ -1,6 +1,6 @@
 # :bulb: **`GAE`** - **G**erador de **A**ssinatura de **E**-mails
 
-[**Protótipo**](https://xd.adobe.com/view/89d2a5fd-f9dc-4727-8fc3-bbfca16d2187-dc81/screen/626bbe78-d434-4987-8b72-8a5bd3c6e4e1?fullscreen)
+[**Protótipo**](https://xd.adobe.com/view/6debe821-bfc1-4db8-a3b7-4ac987765925-38b8/?fullscreen)
 
 ---
 
