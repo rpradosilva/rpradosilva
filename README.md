@@ -9,3 +9,8 @@ Looking for new methods of executing creativity
 [![Gmail Badge](https://img.shields.io/badge/-contato@rprado.design-21275C?style=flat-square&labelColor=4969D7&logo=gmail&logoColor=white&link=mailto:contato@rprado.design)](mailto:contato@rprado.design)
 
 > *A union of Design, motion design, development and UI / UX.*
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rpradosilva&show_icons=true&theme=prussian&hide=contribs,prs&hide_title=true&bg_color=4969D7&icon_color=21275C&text_color=ffffff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpradosilva&layout=compact&title_color=000033&bg_color=DAD8E9&text_color=000033)](https://github.com/rpradosilva)
+
