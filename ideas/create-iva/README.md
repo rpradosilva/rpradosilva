@@ -1,10 +1,12 @@
 # :bulb: **NPM** **`create-iva`** - Pacote para criar IVAs
 
 ## *Ideia*
-Desenvolver um `npm` para facilitar o desenvolvimento de materiais para iPad de qualquer plataforma de CRM. (*open source*).
+Desenvolver um `npm` + CLI para facilitar o desenvolvimento de materiais para iPad de qualquer plataforma de CRM. (*open source*).
 
 ## Referências
 > [folder-structure-generator](https://github.com/krisalay/folder-structure-generator)
+> [como criar cli](https://medium.com/henriquekuwai/criando-sua-cli-com-node-js-d6dee7d03110)
+> [como criar cli - da2k](https://blog.da2k.com.br/2015/03/20/criando-uma-ferramenta-de-cli-com-nodejs/)
 
 ## Escopo
 - Qual tipo de IVA?
