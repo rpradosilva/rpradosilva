@@ -5,7 +5,9 @@ Desenvolver um `npm` + CLI para facilitar o desenvolvimento de materiais para iP
 
 ## Referências
 > [folder-structure-generator](https://github.com/krisalay/folder-structure-generator)
+
 > [como criar cli](https://medium.com/henriquekuwai/criando-sua-cli-com-node-js-d6dee7d03110)
+
 > [como criar cli - da2k](https://blog.da2k.com.br/2015/03/20/criando-uma-ferramenta-de-cli-com-nodejs/)
 
 ## Escopo
