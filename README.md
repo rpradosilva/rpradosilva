@@ -10,7 +10,7 @@ Looking for new methods of executing creativity
 
 > *A union of Design, motion design, development and UI / UX.*
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rpradosilva&show_icons=true&theme=prussian&hide=contribs,prs&hide_title=true&bg_color=4969D7&icon_color=21275C&text_color=ffffff)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rpradosilva&show_icons=true&theme=default&hide=contribs,prs&hide_title=true&icon_color=4969D7&text_color=21275C)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpradosilva&layout=compact&title_color=000033&bg_color=DAD8E9&text_color=000033)](https://github.com/rpradosilva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpradosilva&layout=compact&icon_color=4969D7&text_color=21275C&title_color=21275C)](https://github.com/rpradosilva)
 
