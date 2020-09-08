@@ -1,5 +1,7 @@
 # [<img alt="Logo RPrado" src="https://raw.githubusercontent.com/rpradosilva/rpradosilva/master/.github/logo-rprado.png" width="130px" />](http://rprado.design)
 
+![](https://komarev.com/ghpvc/?username=rpradosilva&label=Views&style=flat-square&color=4969D7)
+
 ### **Designer** & **Developer**
 
 Looking for new methods of executing creativity
