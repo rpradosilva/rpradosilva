@@ -11,4 +11,5 @@ Looking for new methods of executing creativity
 > _A union of Design, motion design, development and UI / UX._
 
 ![rpradosilva's github stats](https://github-readme-stats.vercel.app/api?username=rpradosilva&show_icons=true&theme=default&hide_title=true&icon_color=4969D7&text_color=21275C)
+
 ![Views](https://komarev.com/ghpvc/?username=rpradosilva&label=Views&style=flat-square&color=4969D7)
