@@ -8,7 +8,7 @@ Looking for new methods of executing creativity
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Prado-21275C?style=flat-square&labelColor=4969D7&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rpradosilva/)](https://www.linkedin.com/in/rpradosilva/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@rprado.design-21275C?style=flat-square&labelColor=4969D7&logo=gmail&logoColor=white&link=mailto:contato@rprado.design)](mailto:contato@rprado.design)
 
-> _A union of Design, motion design, development and UI / UX._
+> _A union of Design and development._
 
 ![rpradosilva's github stats](https://github-readme-stats.vercel.app/api?username=rpradosilva&show_icons=true&theme=default&hide_title=true&icon_color=4969D7&text_color=21275C)
 
