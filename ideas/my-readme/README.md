@@ -67,8 +67,10 @@ Fazer video-aulas de como fazer um bom readme:
     - Mostrar rapidamente itens do projeto
     - Acessar conteúdos de forma rápida
   - Construção
-  - URL
-  - Cores
+    - URL
+    - Cores
+    - Nomenclatura
+      - glyphy.io
 
 **5. Exemplo Prático**
 
