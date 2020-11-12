@@ -2,16 +2,19 @@
 
 ## _Ideia_
 
-Fazer video-aulas de como hierarquizar o readme:
+Fazer video-aulas de como fazer um bom readme:
 
 ## Roteiro
 
-- **Apresentação**
-  - Me chamo Rafael e sou designer e aspirante a dev
-- **Objetivo**
-  - Organizar melhor a documentação do projeto com base no README, trazendo o meu aprendizado e a minha opnião sobre o assunto como um dev iniciante e principalmente como designer
-  - Dar dicas visuais para melhorar a hierarquização do conteúdo
-  - Dar dicas de como organizar o conteúdo no repositório
+### **Apresentação**
+
+- Me chamo Rafael e sou designer e aspirante a dev
+
+### **Objetivo**
+
+- Organizar melhor a documentação do projeto com base no README, trazendo o meu aprendizado e a minha opnião sobre o assunto como um dev iniciante e principalmente como designer
+- Dar dicas visuais para melhorar a hierarquização do conteúdo
+- Dar dicas de como organizar o conteúdo no repositório
 
 ### **Conteúdo**
 
@@ -51,16 +54,69 @@ Fazer video-aulas de como hierarquizar o readme:
 
 **4. Sintaxe**
 
-- Utilizando badges
-- Colaboradores automáticos
-- HTML (enganando o markdown)
-- Separar instruções
-- O que é necessário na primeira página
-- cheats
+- Básico
 
-Extra:
+  - Imagens
+  - Headlines (títulos)
+  - Alinhamento
+  - Quebras de linha
 
-- Readme no perfil
+- Badges
+
+  - Objetivo
+    - Mostrar rapidamente itens do projeto
+    - Acessar conteúdos de forma rápida
+  - Construção
+  - URL
+  - Cores
+
+**5. Exemplo Prático**
+
+> Com base nas seções necessárias, mostrar o arquivo ideal
+
+- Header
+
+  - Logo
+    - Se não tiver
+  - Nome do projeto
+  - Descrição rápida do projeto
+  - Acesso rápido a conteúdos importantes
+
+- Projeto funcional
+
+  - Gif do projeto
+  - Live preview
+
+- Sobre o projeto
+
+  - Descreva o objetivo e o porque do projeto de forma clara
+
+- Features
+
+  - Escreva em tópicos o que seu projeto faz
+
+- Iniciando o projeto
+
+  - Prerequisitos
+    - o que precisa para rodar
+  - Instalação
+    - clone
+    - instalar dependencias
+    - rodar projeto
+
+- Colaboradores
+
+  - Utilizar lib para automatizar: https://github.com/all-contributors/all-contributors
+
+- Licensa
+
+  - Arquivo de licença deve ser linkado ao texto
+
+- Autores
+
+**6. Validando readme**
+
+- Um extra para quem quer validar o readme e verificar se está dentro do esperado: https://demos.algorithmia.com/github-readme-analyzer
 
 ## Referências
 
@@ -68,3 +124,5 @@ Assistir aulas de um bom readme:
 
 - [Como criar um README - Daniele Leao Evangelista](https://www.youtube.com/watch?v=Gcb60rPbnKA)
 - [Programador Deve Ter Projeto no Github Como Este!](https://www.youtube.com/watch?v=nu8mwGZUBFU)
+- [COMO ORGANIZAR SEU GITHUB | DEVFOLIO #01](https://www.youtube.com/watch?v=RPzfYrFnauU)
+- [Markdown syntax Cheat sheet](https://www.youtube.com/watch?v=bpdvNwvEeSE)
