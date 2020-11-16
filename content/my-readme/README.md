@@ -1,8 +1,4 @@
-# :bulb: Ensinar a hierarquizar um readme
-
-## _Ideia_
-
-Fazer video-aulas de como fazer um bom readme:
+# Ensinar a hierarquizar um readme
 
 ## Roteiro
 
@@ -31,7 +27,7 @@ Fazer video-aulas de como fazer um bom readme:
 
 - O que é o markdown
 
-  - Assim com o HTML, também é uma linguagem de marcação
+  - Assim como HTML, também é uma linguagem de marcação
   - Ser mais fácil e rápido que o HTML
 
 - Como funciona o markdown?
