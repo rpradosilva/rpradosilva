@@ -116,6 +116,8 @@
 
 - Um extra para quem quer validar o readme e verificar se está dentro do esperado: https://demos.algorithmia.com/github-readme-analyzer
 
+**7. Construir CLI**
+
 ## Referências
 
 Assistir aulas de um bom readme:
