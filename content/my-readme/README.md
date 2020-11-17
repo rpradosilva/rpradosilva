@@ -70,15 +70,15 @@
 
 **5. Exemplo Prático**
 
-> Com base nas seções necessárias, mostrar o arquivo ideal
+1. Criar repositório com licença e com o README
+2. Criar pasta .github para deixar as imagens necessárias para o readme (desvinculando do projeto)
+3. Criar header
 
-- Header
-
-  - Logo
-    - Se não tiver
-  - Nome do projeto
-  - Descrição rápida do projeto
-  - Acesso rápido a conteúdos importantes
+- Logo
+  - Se não tiver
+- Nome do projeto
+- Descrição rápida do projeto
+- Acesso rápido a conteúdos importantes
 
 - Projeto funcional
 
@@ -106,7 +106,7 @@
 
   - Utilizar lib para automatizar: https://github.com/all-contributors/all-contributors
 
-- Licensa
+- Licença
 
   - Arquivo de licença deve ser linkado ao texto
 
@@ -116,7 +116,11 @@
 
 - Um extra para quem quer validar o readme e verificar se está dentro do esperado: https://demos.algorithmia.com/github-readme-analyzer
 
-**7. Construir CLI**
+**7. Configurar como repositório padrão**
+
+- Configurações
+  - habilitar como repo padrão
+  - Iniciar um no repo como exemplo
 
 ## Referências
 
