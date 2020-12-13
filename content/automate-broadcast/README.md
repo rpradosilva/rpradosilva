@@ -6,7 +6,7 @@ Desenvolver um script para automatizar a identidade visual dos vídeos (broadcas
 
 ## Pre-projeto
 
-- [ ] Pesquisa quantitativa sobre se a área que atua é multidisciplinar ativamente (existem pessoas que trabalham juntas para melhorar algo - diferente de cada um faz o seu e depois valida)
+- [x] Pesquisa quantitativa sobre se a área que atua é multidisciplinar ativamente (existem pessoas que trabalham juntas para melhorar algo - diferente de cada um faz o seu e depois valida)
 - [ ] Com base nas respostas da pesquisa, é necessário fazer outra pesquisa teórica/bibliográfica
 
 ### Pesquisa
