@@ -9,7 +9,7 @@ Desenvolver um script para automatizar a identidade visual dos vídeos (broadcas
 - [x] Pesquisa quantitativa sobre se a área que atua é multidisciplinar ativamente (existem pessoas que trabalham juntas para melhorar algo - diferente de cada um faz o seu e depois valida)
 - [ ] Com base nas respostas da pesquisa, é necessário fazer outra pesquisa teórica/bibliográfica
 
-### Pesquisa
+### [Pesquisa](https://forms.gle/cBwMdeTBTVbvZu8P9)
 
 - Deseja receber o resultado e conteúdos relacionados a esta pesquisa?
 - E-mail
