@@ -13,7 +13,6 @@ Desenvolver um script para automatizar a identidade visual dos vídeos (broadcas
 
 - Deseja receber o resultado e conteúdos relacionados a esta pesquisa?
 - E-mail
-- Secoes: Por área de atuacao
 
 ---
 
@@ -38,6 +37,8 @@ Desenvolver um script para automatizar a identidade visual dos vídeos (broadcas
 
 ---
 
+### se sim
+
 - É ou foi fácil trabalhar em equipes com profissionais de áreas diferentes?
 
   - sim
@@ -45,11 +46,22 @@ Desenvolver um script para automatizar a identidade visual dos vídeos (broadcas
 
 ---
 
-- Como foi a experiência? _(Entregáveis = produto final)_
+- Como foi a experiência?
   - A equipe possuia profissionais de áreas diferentes mas cada um fazia a sua parte, apenas validavamos os entregáveis
   - Tinha conhecimento de outros profissionais de áreas diferentes mas nunca nos falávamos
   - Existe uma equipe multidisciplinar que se torna ativa apenas quando existe um problema sério
   - Vejo profissionais de áreas diferentes que procuram sempre ajudar para melhorar as entregas, independente se é a área deles ou não
+
+---
+
+### se não
+
+- Como você acha que será trabalhar em equipes com profissionais de áreas diferentes?
+
+  - Não gostaria de trabalhar desta forma
+  - Difícil
+  - Interessante
+  - Um aprendizado
 
 ---
 
