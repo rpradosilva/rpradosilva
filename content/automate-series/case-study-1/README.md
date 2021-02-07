@@ -1,24 +1,4 @@
-# :clapper: **Estudos de caso**
-
-## Ideia
-
-Trazer estudos de caso, que aconteceram comigo, sobre como foi identificar padrões e posteriormente otimizá-los.
-
-## Estilo de vídeo
-
-- ?
-
-## Vídeos
-
-### 1) Pesquisa quantitativa sobre equipes multidisciplinares
-
-- Tipos de profissionais e nivel
-- Já participaram de equipes multidiciplinares?
-- Gostaram?
-- Como participaram?
-- Com base nesta pesquisa quantitativa, gostaria de compartilhar minhas vivências através de estudos de caso
-
-### 2) **Estudo de caso**: padronizar para otimizar processos de design
+# :clapper: **Estudo de caso**: padronizar para otimizar processos de design
 
 1. **Histórico**
 
