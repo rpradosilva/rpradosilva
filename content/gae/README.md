@@ -4,13 +4,15 @@
 
 ---
 
-## *Ideia*
-Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pessoas ou empresas, de forma customizável e que seja de código livre (*open source*).
+## _Ideia_
 
+Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pessoas ou empresas, de forma customizável e que seja de código livre (_open source_).
 
-## *Referências*
+## _Referências_
 
 > [Resultados Digitais](https://resultadosdigitais.com.br/ferramentas/assinatura-de-email/cadastro)
+
+> [wisestamp](https://webapp.wisestamp.com/)
 
 > [Hubspot](https://br.hubspot.com/email-signature-generator)
 
@@ -24,53 +26,62 @@ Desenvolver uma aplicação que gere assinaturas de e-mail responsivas para pess
 
 > [Rock Content](https://rockstamp.rockcontent.com/#assinatura)
 
-## *Projeto*
+## _Projeto_
 
 ### **Público**
+
 - Técnico TI da empresa
 - Profissionais que querem deixar seu e-mail corporativo (Freelancers & funcionários)
 
 ### **Descritivo**
 
 1. Gerar rapidamente minha assinatura de e-mail
-    > Acessar o domínio, ex: `gae.github.io`
+
+   > Acessar o domínio, ex: `gae.github.io`
 
 2. Informar meus dados pessoais
-      > Nome (*minímo 2 letras*) :pushpin:
 
-      > Sobrenome (*minímo 2 letras*) :pushpin:
+   > Nome (_minímo 2 letras_) :pushpin:
 
-      > Foto (*Inserir URL*) :office: :lock:
+   > Sobrenome (_minímo 2 letras_) :pushpin:
 
-      > Telefone pessoal (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :office: :lock:
+   > Foto (_Inserir URL_) :office: :lock:
+
+   > Telefone pessoal (_mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000_) :office: :lock:
+
 3. Informar meus dados profissionais
-      > E-mail (*@empresa.com; @empresa e . + inserir mailto no texto*) :pushpin: :office:
 
-      > Telefone comercial (*mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000*) :pushpin: :office: :lock:
+   > E-mail (_@empresa.com; @empresa e . + inserir mailto no texto_) :pushpin: :office:
 
-      > Site empresa :office: :lock:
-      
-      > Logo Empresa (*inserir url + site na imagem*) :office: :lock:
+   > Telefone comercial (_mask +55 11 00000-0000 e adicionar anchor: cel:+5511000000000_) :pushpin: :office: :lock:
 
-      > Disclaimer :office: :lock:
+   > Site empresa :office: :lock:
 
-      > Redes Sociais (*Inserir link e ícone*) :office: :lock:
+   > Logo Empresa (_inserir url + site na imagem_) :office: :lock:
 
-      > Campo adicional (*Inserir um novo campo e preencher*) :office: :lock:
+   > Disclaimer :office: :lock:
+
+   > Redes Sociais (_Inserir link e ícone_) :office: :lock:
+
+   > Campo adicional (_Inserir um novo campo e preencher_) :office: :lock:
+
 4. Formatar minha assinatura
-    > Cores: Escura e Clara (*inserir seletor de cores*) :pushpin: :office: :lock:
 
-    > Tamanho da imagem: Definir tamanho da largura  imagem :pushpin: :office: :lock:
+   > Cores: Escura e Clara (_inserir seletor de cores_) :pushpin: :office: :lock:
 
-    > Layout/tema (*um na vertical e outro na horizontal*) :pushpin: :office: :lock:
+   > Tamanho da imagem: Definir tamanho da largura imagem :pushpin: :office: :lock:
+
+   > Layout/tema (_um na vertical e outro na horizontal_) :pushpin: :office: :lock:
+
 5. Ver como ficou minha assinatura
-    > A assinatura deve funcionar como um live preview (*onkeypress*)
+   > A assinatura deve funcionar como um live preview (_onkeypress_)
 6. Inserir no meu e-mail
-    > Inserir direto no gmail (*API*)
 
-    > `Copy to clipboard` código HTML
+   > Inserir direto no gmail (_API_)
 
-    > Exportar png
+   > `Copy to clipboard` código HTML
+
+   > Exportar png
 
 |   Ícone   | Legenda              |
 | :-------: | :------------------- |
