@@ -13,19 +13,20 @@ Desenvolver projetos funcionais e opensource para comunidade, partindo dos princ
 
 ### Requisitos
 
-1. Definir metologia de pesquisa automatizada, simples e que possa ser feita remotamente
-2. Com base nas pesquisas, verificar viabilidade
-3. No caso de projetos físicos, adquirir produtos
-4. Definir monetização o projeto (patreon, adsense)
-5. Definir como metrificar o projeto (data studio)
-6. Desenvolver e testar projeto com pessoas
+1. Idear
+2. Definir metologia de pesquisa automatizada, simples e que possa ser feita remotamente
+3. Com base nas pesquisas, verificar viabilidade
+4. No caso de projetos físicos, adquirir produtos
+5. Definir monetização do projeto (patreon, adsense)
+6. Definir como metrificar o projeto (data studio)
+7. Desenvolver e testar projeto com pessoas
 
 ## Metodologia
 
-Através de sprints, definir todas as etapas do projeto para posteriormente executar e fazer a gravação para o youtube.
+Através de sprints, definir todas as etapas do projeto para posteriormente executar e fazer a gravação para o youtube, desenvolvendo também em live.
 
 ## Tarefas
 
 - [ ] Priorizar projetos
-- [ ] Adquirir produtos
+- [ ] Adquirir produtos para gravação, live e projetos
 - [ ] Documentar e organizar etapas
