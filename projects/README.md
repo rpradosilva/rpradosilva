@@ -27,6 +27,10 @@ Através de sprints, definir todas as etapas do projeto para posteriormente exec
 
 ## Tarefas
 
-- [ ] Priorizar projetos
+- [x] Priorizar projetos
 - [ ] Adquirir produtos para gravação, live e projetos
 - [ ] Documentar e organizar etapas
+
+## Prioridade
+
+- [meet-room-display](/projects/meet-room-display/README.md)
