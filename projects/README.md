@@ -33,4 +33,4 @@ Através de sprints, definir todas as etapas do projeto para posteriormente exec
 
 ## Prioridade
 
-- [meet-room-display](/projects/meet-room-display/README.md)
+- [mystreampack](/projects/mystreampack/README.md)
