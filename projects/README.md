@@ -28,9 +28,10 @@ Através de sprints, definir todas as etapas do projeto para posteriormente exec
 ## Tarefas
 
 - [x] Priorizar projetos
-- [ ] Adquirir produtos para gravação, live e projetos
 - [ ] Documentar e organizar etapas
+- [ ] Adquirir produtos para gravação, live e projetos
 
 ## Prioridade
 
+- [Pokelevel Calculator](https://github.com/rpradosilva/pokelevel-calculator)
 - [mystreampack](/projects/mystreampack/README.md)
