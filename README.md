@@ -1,12 +1,9 @@
-# [<img alt="Logo RPrado" src="https://raw.githubusercontent.com/rpradosilva/rpradosilva/master/.github/logo-rprado.png" width="130px" />](http://rprado.design)
-
 ### **Product Designer**
 
-[![Site Badge](https://img.shields.io/badge/-Portfolio-000040?style=flat-square&labelColor=4A6AD9&logo=google-chrome&logoColor=white&link=https://rprado.design)](https://rprado.design)
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Prado-000040?style=flat-square&labelColor=4A6AD9&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rpradosilva/)](https://www.linkedin.com/in/rpradosilva/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-000040?style=flat-square&labelColor=4A6AD9&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCngcgGLbSjDUO-H2p5j43DA)](https://www.youtube.com/channel/UCngcgGLbSjDUO-H2p5j43DA)
-[![Gmail Badge](https://img.shields.io/badge/-contato@rprado.design-000040?style=flat-square&labelColor=4A6AD9&logo=gmail&logoColor=white&link=mailto:contato@rprado.design)](mailto:contato@rprado.design)
+[![Site Badge](https://img.shields.io/badge/-Portfolio-021826?style=flat-square&labelColor=00080D&logo=google-chrome&logoColor=white&link=https://rprado.design)](https://rprado.design)
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Prado-021826?style=flat-square&labelColor=00080D&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rpradosilva/)](https://www.linkedin.com/in/rpradosilva/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@rprado.design-021826?style=flat-square&labelColor=00080D&logo=gmail&logoColor=white&link=mailto:contato@rprado.design)](mailto:contato@rprado.design)
 
-![rpradosilva's github stats](https://github-readme-stats.vercel.app/api?username=rpradosilva&show_icons=true&theme=default&hide_title=true&icon_color=4A6AD9&text_color=000040)
+![rpradosilva's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpradosilva&show_icons=true&icon_color=021826&theme=default&text_color=021826&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)
 
-![Views](https://komarev.com/ghpvc/?username=rpradosilva&label=Views&style=flat-square&color=4A6AD9)
+![Views](https://komarev.com/ghpvc/?username=rpradosilva&label=Views&style=flat-square&color=021826)
