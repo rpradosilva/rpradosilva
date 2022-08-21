@@ -17,24 +17,25 @@ Desenvolver uma aplicação que gerencie (cadastre, consulte e edite) alunos da 
 
 - [ ] Fotografar RG ou Certidão de nascimento
 
-  - [ ] IA
+  - [ ] Iniciar tirando a foto mas permitir preencher manualmente
 
-- [ ] Preenchimento por voz
+- [ ] Preenchimento por voz --> opcional
 
 - [ ] Cadastrar um aluno
 
-  - [ ] Número de RG
-  - [ ] Responsável(eis)
-  - [ ] Endereço (auto complete com google maps)
-  - [ ] Data de nascimento
-  - [ ] Escola que frequenta
-  - [ ] Telefone
-    - [ ] é Zap?
-  - [ ] Professor(res)
-  - [ ] Sala
-  - [ ] Número de Cadastro
-  - [ ] Data de cadastro (DD/MM/AAAA)
-  - [ ] Medidas (opcional no cadastro mas disponível depois)
+  - [ ] Foto --> dispositivo
+  - [ ] Número de RG --> Scan
+  - [ ] Responsável(eis) --> Scan
+  - [ ] Endereço (auto complete com google maps) --> por CEP ou nome da rua
+  - [ ] Data de nascimento --> Scan
+  - [ ] Escola que frequenta --> Manual
+  - [ ] Telefone --> number --> Manual
+    - [ ] é Zap? --> checkbox --> Manual
+  - [ ] Professor(res) --> Gerado automaticamente
+  - [ ] Sala --> Gerado automaticamente
+  - [ ] Número de Cadastro --> Gerado automaticamente
+  - [ ] Data de cadastro (DD/MM/AAAA) --> Gerado automaticamente
+  - [ ] Medidas --> opcional --> oculto no cadastro
 
 - [ ] Consultar
 
