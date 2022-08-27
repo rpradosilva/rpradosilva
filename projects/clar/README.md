@@ -6,7 +6,7 @@ Desenvolver uma aplicação que gerencie (cadastre, consulte e edite) alunos da 
 
 ## Motivação
 
-- Centralizar o cadastro e consulta de alunos de forma digital
+- Centralizar o cadastro e consulta de alunos de forma digital.
 
 ## Features
 
