@@ -1,6 +1,8 @@
 [![Header](.github/gh-repo.svg)](https://rprado.design)
 
-Product Designer com foco em produtos digitais para instituições financeiras e industrias farmacêuticas, web e mobile, com experiência em empresas como Boehringer Ingelheim, Eli Lilly, Bradesco e Picpay. Faço também experimentos no mundo open source para melhorar ou criar ferramentas que facilitam meu trabalho.
+Designer com mais de 9 anos de experiência, sendo 3 deles atuando como Product Designer, passando por McCann Health, Bradesco e PicPay. Meu processo de design é centrado no usuário, colaborativo e iterativo, garantindo que cada solução atenda às necessidades dos usuários e aos objetivos de negócios.
+
+Ao longo da minha carreira, trabalhei em uma variedade de projetos, incluindo aplicativos, sites (internet banking) e plataforma de software (Veeva, IQVIA e Tabmedia).
 
 [![Site Badge](https://img.shields.io/badge/-Portfólio-00080D?style=flat-square&labelColor=021826&logo=webflow&logoColor=white&link=https://rprado.design)](https://rprado.design)
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Prado-00080D?style=flat-square&labelColor=021826&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rpradosilva/)](https://www.linkedin.com/in/rpradosilva/)
