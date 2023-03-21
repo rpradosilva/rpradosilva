@@ -1,4 +1,4 @@
-[![Header](.github/gh-readme.svg)](https://rprado.design)
+[![Header](.github/header-readme.svg)](https://rprado.design)
 
 Product Designer com foco em produtos digitais para instituições financeiras e industrias farmacêuticas, web e mobile, com experiência em empresas como Boehringer Ingelheim, Eli Lilly, Bradesco e Picpay. Faço também experimentos no mundo open source para melhorar ou criar ferramentas que facilitam meu trabalho.
 
