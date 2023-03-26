@@ -1,4 +1,4 @@
-[![Header](.github/gh-repo.svg)](https://rprado.design)
+[![Header](.github/gh-logo.svg)](https://rprado.design)
 
 Designer com mais de 9 anos de experiência, sendo 3 deles atuando como Product Designer, passando por McCann Health, Bradesco e PicPay. Meu processo de design é centrado no usuário, colaborativo e iterativo, garantindo que cada solução atenda às necessidades das pessoas e aos objetivos de negócios.
 
