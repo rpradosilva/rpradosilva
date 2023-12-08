@@ -1,5 +1,3 @@
-[<img alt="Logo RPrado" src=".github/github.svg" width="88" />](http://rprado.design)
-
 Como Product Designer procuro experimentar e entender o máximo da tecnologia para auxiliar a construção de produtos com experiências eficazes.
 
 ---
